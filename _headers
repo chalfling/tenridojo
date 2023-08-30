@@ -1,6 +1,7 @@
 /*
   X-Frame-Options: DENY
-  X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
   Permissions-Policy: document-domain=()
+  Access-Control-Allow-Origin: *.pages.dev
   Content-Security-Policy: script-src 'self'; frame-ancestors 'none';
